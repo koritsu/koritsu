@@ -2,13 +2,11 @@
 ## 👋 Hello! I'm Bob
 
 ### 🚀 Backend Developer | Java & Golang Enthusiast
-
-Welcome to my GitHub! I am a passionate backend developer with over a decade of experience in building scalable and efficient systems. Here’s a bit about my journey:
+어차피 일은 힘든 것이니 가는 길이라도 즐겁게 가고 싶은 개발자 입니다.
 
 ### 🔧 Skills & Technologies
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Echo](https://img.shields.io/badge/Echo-009688?style=for-the-badge&logo=echo&logoColor=white)
@@ -25,24 +23,32 @@ Welcome to my GitHub! I am a passionate backend developer with over a decade of 
 
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-### 🏢 Professional Experience
-#### **Samsung SDS**
-- Developed mobile application servers and web services.
-- Led projects on the Samsung Intranet and Store.
+## 🏢 경력 요약
 
-#### **Dreamus Company (FLO)**
-- Managed high-traffic microservices architecture.
-- Optimized FLO API for performance and scalability.
+### **삼성SDS**
+- 모바일 애플리케이션 서버 및 웹 서비스 개발  
+- 삼성 사내 인트라넷 및 스토어 프로젝트 리딩
 
-#### **Eishikju Company**
-- Designed and implemented MSA architectures.
-- Developed Golang-based REST APIs and AWS solutions.
-- Led factory efficiency projects with TMAP API integration.
+### **드림어스컴퍼니 (FLO)**
+- 대규모 트래픽을 처리하는 마이크로서비스 아키텍처 운영  
+- FLO API 성능 및 확장성 최적화
 
-### 🌟 Highlights
-- Expertise in handling up to 10,000 TPS environments.
-- Proven track record in system optimization and performance tuning.
-- Strong leadership and mentoring skills with junior developers.
+### **의식주컴퍼니**
+- MSA 아키텍처 설계 및 구현  
+- Golang 기반 REST API 및 AWS 솔루션 개발  
+- TMAP API 연동을 통한 공장 효율화 프로젝트 리딩
+
+### **트리플콤마**
+- 스쿼드 내 프로젝트 백엔드 업무 리딩
+- 챕터 내 이슈 기술 검토
+- ISMS 백엔드 영역 보안 및 조치 담당자
+- 각종 기술 검토 (AWS 인프라 도입 (CI/CD, AI 등등), 설계방법 (DDD) 등)
+
+## 🌟 주요 역량
+- 높은 트래픽(TPS) 환경 운영 경험
+- 시스템 최적화 및 성능 튜닝 전문성  
+- 주니어 개발자 리딩 및 멘토링 능력
+- 라포 형성 주도 및 업무 리딩 능력
 
 ### 📫 Connect with Me
 - **LinkedIn:** [link](https://www.linkedin.com/in/관효-김-983a1057)
