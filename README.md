@@ -2,7 +2,7 @@
 ## 👋 Hello! I'm Bob
 
 ### 🚀 Backend Developer | Java & Golang Enthusiast
-어차피 일은 힘든 것이니 가는 길이라도 즐겁게 가고 싶은 개발자 입니다.
+어차피 일은 힘든 것이니 가는 길이라도 즐겁게 가고 싶은 개발자 겸 리더 겸 멘토 입니다.
 
 ### 🔧 Skills & Technologies
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
